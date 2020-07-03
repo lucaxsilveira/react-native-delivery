@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  GoRestaurant. Built with ReactJS and Styled Components.
+  GoRestaurant. Built with React Native, Typescript and Styled Components.
 </p>
 
 ## Things the GoRestaurant can do:
