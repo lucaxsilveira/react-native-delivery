@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 <a>
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/lucaxsilveira/gostack-template-reactjs-crud?style=social">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/lucaxsilveira/react-native-delivery?style=social">
 </a>
 <a>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/lucaxsilveira?style=social">
